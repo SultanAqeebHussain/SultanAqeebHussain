@@ -53,12 +53,10 @@
 
 ## 🌱 Currently Learning
 
-| |
-| :---: |
-| 📚 **Retrieval-Augmented Generation (RAG)** |
-| 🐍 **Advanced Python** |
-| ☁️ **AWS Cloud Practitioner / Solutions Architect** |
-| 🧠 **Azure AI Engineer Associate (AI-102)** |
+- 📚 **Retrieval-Augmented Generation (RAG)**
+- 🐍 **Advanced Python**
+- ☁️ **AWS Cloud Practitioner / Solutions Architect**
+- 🧠 **Azure AI Engineer Associate (AI-102)**
 
 </div>
 
@@ -69,11 +67,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SultanAqeebHussain&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=FFFFFF" width="450" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SultanAqeebHussain&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=FFFFFF" width="450" alt="GitHub Stats" />
 <br />
 <img src="https://streak-stats.demolab.com?user=SultanAqeebHussain&hide_border=true&background=0d1117&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="450" alt="GitHub Streak" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanAqeebHussain&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&text_color=FFFFFF" width="380" alt="Top Languages" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=SultanAqeebHussain&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&text_color=FFFFFF" width="380" alt="Top Languages" />
 
 </div>
 
