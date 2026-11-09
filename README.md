@@ -12,6 +12,18 @@
 
 <br />
 
+<!-- ===== CONNECT ===== -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/sultanaqeebh">
+    <img src="https://img.shields.io/badge/LinkedIn-Aqeeb%20Hussain-3a0f5c?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SultanAqeebHussain">
+    <img src="https://img.shields.io/badge/GitHub-SultanAqeebHussain-3a0f5c?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
 <!-- ===== ABOUT ME ===== -->
 <div align="center">
 
@@ -24,6 +36,19 @@
 - ☁️ Learning **AWS** & **Azure AI Engineer** track
 - 🧠 Passionate about **AI, Cloud Computing & Intelligent Systems**
 - ⚡ Fun fact: I believe great AI starts with great curiosity
+
+</div>
+
+<br />
+
+<!-- ===== EDUCATION ===== -->
+<div align="center">
+
+## 🎓 Education
+
+| 🏫 Institution | 📜 Programme | 📅 Duration |
+| :--- | :--- | :--- |
+| **TMUC Islamabad** × **University of Hertfordshire, UK** | BSc — 3-Year UK Degree | **Jan 2026 → 2029** |
 
 </div>
 
@@ -67,7 +92,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SultanAqeebHussain&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=FFFFFF" width="450" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SultanAqeebHussain&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=FFFFFF&hide_rank=true" width="450" alt="GitHub Stats" />
 <br />
 <img src="https://streak-stats.demolab.com?user=SultanAqeebHussain&hide_border=true&background=0d1117&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="450" alt="GitHub Streak" />
 <br />
