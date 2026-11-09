@@ -48,7 +48,7 @@
 
 | 🏫 Institution | 📜 Programme | 📅 Duration |
 | :--- | :--- | :--- |
-| **TMUC Islamabad** × **University of Hertfordshire, UK** | BSc — 3-Year UK Degree | **Jan 2026 → 2029** |
+| **TMUC Islamabad** × **University of Hertfordshire, UK** | 3-Year UK Degree | **Jan 2026 → 2029** |
 
 </div>
 
